@@ -1,2 +1,1 @@
-# avatar
-سلام عليكم 
+welcome bot for discord images
