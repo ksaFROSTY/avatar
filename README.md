@@ -1,1 +1,1 @@
-welcome bot for discord images
+بوت القران الكريم 
